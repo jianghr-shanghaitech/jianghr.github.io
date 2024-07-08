@@ -3,7 +3,7 @@ title: "Bias-Aware Real-time Interactive Material Screening System"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024
+date: 2024-03-01
 venue: 'IUI 2024'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: #'https://dl.acm.org/doi/fullHtml/10.1145/3640543.3645166'
