@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haoran Jiang 姜浩然"
+title                    : "Haoran Jiang"
 name                     : &name "Your Name"
 description              : &description "Master student at ShanghaiTech ViSeer Lab"
 url                      : "https://jianghr-shanghaitech.github.io/jianghr.github.io/"
@@ -20,11 +20,11 @@ repository               : "jianghr-shanghaitech.github.io/jianghr.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "visa photo.png"
-  name             : #"Your Sidebar Name"
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : "Shanghai China"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "jianghr2023@shanghaitech.edu.cn 
