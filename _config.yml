@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : #"Your Name / Site Title"
+title                    : "Haoran Jiang"
 title_separator          : #"-"
 name                     : &name "Haoran Jiang 姜浩然"
 description              : &description "Master student at ShanghaiTech ViSeer Lab"
