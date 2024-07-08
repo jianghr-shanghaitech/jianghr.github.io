@@ -16,3 +16,5 @@ My current research primarily focuses on user participation and cognitive debias
 
 - **Enhancing the interpretability of biomedical models**
 - **Eliminating cognitive biases in human decision-making activities**
+
+[Email](jianghr2023@shanghaitech.edu.cn) / [Github](https://github.com/jianghr-shanghaitech)
