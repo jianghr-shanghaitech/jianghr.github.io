@@ -10,4 +10,4 @@ paperurl: 'https://dl.acm.org/doi/fullHtml/10.1145/3640543.3645166'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-<img src="../images/profile.png" alt="Description of the image" style="width:50%;"/>
+<img src="../images/iui24-26-fig5.png" alt="Description of the image" style="width:50%;"/>
