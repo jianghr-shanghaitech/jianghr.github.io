@@ -1,4 +1,3 @@
-
 ---
 title: "Bias-Aware Real-time Interactive Material Screening System"
 collection: publications
